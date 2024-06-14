@@ -1,12 +1,12 @@
-  "name": "DitzzXploit",
+  "name": "IndoLife",
   "version": "1.0.0",
-  "description": "Subscribe My Youtube Channel DitzzXploit",
-  "main": "anjayLah.js",
+  "description": "Subscribe My Youtube Channel ARK-INDO-GEN",
+  "main": "life.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node anjayLah.js"
+    "start": "node life.js"
   },
-  "author": "KirBotz WhatsApp",
+  "author": "IndoLife WhatsApp",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
